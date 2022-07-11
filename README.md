@@ -1,3 +1,6 @@
 # mon-projet-jour-1
-
+LOCAL, LOCAL, LOCAL
 blabla
+
+LOCAL, LOCAL, LOCAL
+LOCAL, LOCAL, LOCAL
